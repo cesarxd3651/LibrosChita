@@ -1,0 +1,9 @@
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\bin\Debug\netstandard2.0\Emailer.deps.json
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\bin\Debug\netstandard2.0\Emailer.dll
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\bin\Debug\netstandard2.0\Emailer.pdb
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\obj\Debug\netstandard2.0\Emailer.csprojAssemblyReference.cache
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\obj\Debug\netstandard2.0\Emailer.csproj.CoreCompileInputs.cache
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\obj\Debug\netstandard2.0\Emailer.AssemblyInfoInputs.cache
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\obj\Debug\netstandard2.0\Emailer.AssemblyInfo.cs
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\obj\Debug\netstandard2.0\Emailer.dll
+C:\Users\USP\source\repos\EnviarCorreo\Emailer\obj\Debug\netstandard2.0\Emailer.pdb

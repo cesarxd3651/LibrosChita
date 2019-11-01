@@ -1,0 +1,13 @@
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csprojAssemblyReference.cache
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.GenerateResource.cache
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.CoreCompileInputs.cache
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\bin\Debug\Emailer.dll
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\bin\Debug\Emailer.pdb
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.CopyComplete
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+C:\Users\USP\source\repos\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
