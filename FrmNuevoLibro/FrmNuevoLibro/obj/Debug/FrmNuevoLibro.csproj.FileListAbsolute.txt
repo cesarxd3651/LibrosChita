@@ -1,0 +1,10 @@
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\bin\Debug\FrmNuevoLibro.exe.config
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\bin\Debug\FrmNuevoLibro.exe
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\bin\Debug\FrmNuevoLibro.pdb
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\obj\Debug\FrmNuevoLibro.csprojAssemblyReference.cache
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\obj\Debug\FrmNuevoLibro.Properties.Resources.resources
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\obj\Debug\FrmNuevoLibro.csproj.GenerateResource.cache
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\obj\Debug\FrmNuevoLibro.csproj.CoreCompileInputs.cache
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\obj\Debug\FrmNuevoLibro.exe
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\obj\Debug\FrmNuevoLibro.pdb
+C:\Users\USP\source\repos\FrmNuevoLibro\FrmNuevoLibro\obj\Debug\FrmNuevoLibro.Form1.resources
