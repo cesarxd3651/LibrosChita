@@ -1,0 +1,10 @@
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\bin\Debug\MasterPadre.exe.config
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\bin\Debug\MasterPadre.exe
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\bin\Debug\MasterPadre.pdb
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\obj\Debug\MasterPadre.csprojAssemblyReference.cache
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\obj\Debug\MasterPadre.Form1.resources
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\obj\Debug\MasterPadre.Properties.Resources.resources
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\obj\Debug\MasterPadre.csproj.GenerateResource.cache
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\obj\Debug\MasterPadre.csproj.CoreCompileInputs.cache
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\obj\Debug\MasterPadre.exe
+C:\Users\USP\source\repos\MasterPadre\MasterPadre\obj\Debug\MasterPadre.pdb
