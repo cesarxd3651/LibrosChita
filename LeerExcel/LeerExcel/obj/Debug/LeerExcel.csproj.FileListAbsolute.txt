@@ -1,0 +1,9 @@
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\bin\Debug\LeerExcel.exe.config
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\bin\Debug\LeerExcel.exe
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\bin\Debug\LeerExcel.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.Form1.resources
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.Properties.Resources.resources
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.csproj.GenerateResource.Cache
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.exe
+c:\users\cesar\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.pdb
