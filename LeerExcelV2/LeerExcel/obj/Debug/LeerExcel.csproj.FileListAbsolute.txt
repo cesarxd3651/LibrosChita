@@ -1,0 +1,11 @@
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\bin\Debug\LeerExcel.exe.config
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\bin\Debug\LeerExcel.exe
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\bin\Debug\LeerExcel.pdb
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.csprojResolveAssemblyReference.cache
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.Form1.resources
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.Properties.Resources.resources
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.csproj.GenerateResource.Cache
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.exe
+C:\Users\CESAR\documents\visual studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.pdb
+C:\Users\CESAR\Documents\Visual Studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.FiltrarPorColumnas.resources
+C:\Users\CESAR\Documents\Visual Studio 2015\Projects\LeerExcel\LeerExcel\obj\Debug\LeerExcel.Inicio.resources
